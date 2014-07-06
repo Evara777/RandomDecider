@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RandomDecider</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_heads_tails">HeadsTailsActivity</string>
+    <string name="title_activity_user_random_decider">UserRandomDeciderActivity</string>
+    <string name="title_activity_user_decider">UserDeciderActivity</string>
+
+</resources>
